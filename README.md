@@ -10,6 +10,8 @@ This project aims to provide insights and visualizations based on a loan dataset
 ## Dataset
 
 The dataset used for this analysis is named "LoanStats_2019Q1.csv." It contains loan-related information, such as loan amount, interest rate, loan grade, home ownership, loan status, etc. dated in the first quarter, i.e., January to March, of 2019. The dataset is provided in a CSV format and contains 115675 rows. The original dataset contained 144 columns, but I did intital preprocessing in MS Excel and removed 42 rows which were innecessary for analysis.
+You can download the dataset used in this project as a ZIP file.
+[Download Dataset ZIP](LoanStats_2019Q1.zip)
 
 ## Requirements
 
